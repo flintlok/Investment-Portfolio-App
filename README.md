@@ -1,5 +1,5 @@
 # Investment Portfolio App
-#### Video Demo:  <URL HERE>
+
 #### Description:
 
 This is a Python-based application for creating personalized mutual funds 
