@@ -1,0 +1,1 @@
+[{'https://pasardana.id/fund/1234': ['https://pasardana.id/fund/1234', 'Manulife Dana Kas II Kelas A', 'Pasar Uang', '1594.6300', 13.0]}, {'https://pasardana.id/fund/55': ['https://pasardana.id/fund/55', 'ABF INDONESIA BOND INDEX FUND', 'Obligasi', '45454.8652', 100.0]}, {}]
