@@ -22,9 +22,10 @@ stock prices off <br> of [Pasardana](https://pasardana.id/), a popular website t
 
 #### Files:
 
-- *chromedriver* (folder): Stores the chromedriver.exe file used for webscraping purposes
+- *driver* (folder): Stores the chromedriver.exe file used for webscraping purposes
 - *savefiles* (folder): Stores the previously saved portfolios in the form of a text file (.txt)
-- *main.py* (file): The python version of the application (Note: to change this to .exe, install pyinstaller, <br> via: `python -m pip install pyinstaller`, then execute this command in the working directory of <br> the program: `pyinstaller --onefile main.py`
+- *main.py* (file): The python version of the application
+- *main.exe* (file): The main application (OPEN THIS)
 - *helper.py* (file): Stores all the functions that run the application, such as loading previously saved <br> tables, saving new tables, removing table entries, making queries to the Pasardana website, etc.
 - *credentials.json* (file): Stores the API credentials necessary to run the Google Sheets API, which will  <br> automatically update the spreadsheet daily by refreshing the table first then running the program. <br>***DO NOT delete this!***
 
