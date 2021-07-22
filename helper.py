@@ -71,7 +71,7 @@ def build_service():
     print('success')
     return service
     
-# get portfolio values for the day, used for 
+# get portfolio values for the day 
 def get_portfolio(portfolio):
     driver_path = 'C:/Users/User/Desktop/portfolio app/chromedriver/chromedriver.exe'
     driver = webdriver.Chrome(executable_path=driver_path, chrome_options=options)
