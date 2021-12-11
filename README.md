@@ -33,7 +33,10 @@ stock prices off <br> of [Pasardana](https://pasardana.id/), a popular website t
 - I was struggling to find an easy way to save previously made portfolios. I initially thought about <br> storing a long list of tuples, which stored the Pasardana URL and the number of units owned. <br>However, this approach was heavilytime consuming, as every time the user loaded the saved file,  <br> they would have to make queries for every single entry again. So, I ended up making a list of  <br> dictionaries (one for each category) and stored the URL and other basic information (name,  <br> category, units owned, and its current NAV).
 - I initially had one large file, where all the functions and GUI code were housed. However, the code <br> wasn't really concise and keeping track of everything was really difficult. So, I resorted to separating <br> the functions and GUI elements into two different files, which ultimately made the code much more <br> legible.
 
-
+#### How to run?
+  
+1. Run `python -m pip install -r requirements.txt` to install prerequisites
+2. Run `python main.py`
 
 
 
